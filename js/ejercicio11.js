@@ -19,5 +19,5 @@ if (numero % 7 == 0) {
 if (esDivisible) {
     document.write(`${numero} es divisible por ${esDivisible}`);
 } else {
-    document.write(`${numero} no es divisible por 2, 3, 5 ni 7`);
+    document.write(`${numero} NO es divisible por 2, 3, 5 y 7`);
 }
